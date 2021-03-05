@@ -14,3 +14,4 @@ Expected outcome:
 ## Table of contents
 
 - [1 Setup libraries](1_setup_libraries.md)
+- [2 How to learn](2_how_to_learn)
