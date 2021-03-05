@@ -15,3 +15,4 @@ Expected outcome:
 
 - [1 Setup libraries](1_setup_libraries.md)
 - [2 How to learn](2_how_to_learn.md)
+- [3 Draw triangle](3_draw_triangle/draw_triangle.md)
