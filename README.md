@@ -9,7 +9,7 @@ This tutorial is for people who:
 In this tutorial, I will guide you with [PyOpenGL](http://pyopengl.sourceforge.net/). 
 
 Expected outcome:
-- A spining donut
+- A spinning donut
 
 ## Table of contents
 
