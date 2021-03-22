@@ -19,3 +19,4 @@ Expected outcome:
 - [4 Draw axes](4_draw_axes/draw_axes.md)
 - [5 Spinning cube](5_spinning_cube/spinning_cube.md)
 - [6 Spinning cube fast and slow](6_faster_slower/faster_slower.md)
+- [7 Setup even more libraries](7_setup_more_libraries/setup_more_libraries.md)
