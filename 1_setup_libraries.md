@@ -1,4 +1,4 @@
-# Setup libraris
+# Setup libraries
 
 ## PyOpenGL
 
@@ -9,12 +9,6 @@ As far as I am concerned, it's very simple to install with `pip`.
 `pip install PyOpenGL PyOpenGL_accelerate`
 
 ### For Windows user
-
-According to [PyOpenGL Documentation](http://pyopengl.sourceforge.net/documentation/installation.html), installing via PIP **should** work
-
-`pip install PyOpenGL PyOpenGL_accelerate`
-
-**It doesn't work irl. If you have installed via pip, please uninstall them.**
 
 Now please go to this site for Unofficial Windows Binaries for Python Extension Packages to get `.whl` files to install PyOpenGL.
 
@@ -38,7 +32,7 @@ Then you just need `pip install` whl files.
 
 ## Other alternative libraries
 
-In this section, I just introduce to you that there are libraries with better peformance and high productivity. I will not conver the usage of them in further tutorials.
+In this section, I just introduce to you that there are libraries with better peformance and high productivity. I **will not** conver the usage of them in further tutorials. **You do not need to install these things.**
 
 ### [ModernGL](https://github.com/moderngl/moderngl)
 
